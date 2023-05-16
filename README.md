@@ -17,6 +17,7 @@ I’m currently working as Sr. WordPress Specialist at BDCalling IT Ltd, a leadi
 
 With over 6 years of experience in WordPress theme development, I am a skilled and experienced professional who is dedicated to delivering high-quality, responsive, and visually appealing websites. Throughout my career, I have worked with clients across a range of industries, designing and developing custom WordPress themes that meet their specific requirements and exceed their expectations. My expertise includes HTML, CSS, PHP, JavaScript, and other web development technologies, as well as best practices for SEO, user experience, and performance optimization.
 
+Our company website is here: https://bdcalling.com/
 This is my personal Website: https://mktonmoy.com/
 
 ## 👨‍💻 Skills & Experiance: 
@@ -26,7 +27,9 @@ This is my personal Website: https://mktonmoy.com/
 ✌ PHP <br>
 ✌ WordPress Theme Development <br> 
 ✌ WordPress Plugin Development <br>
-✌ Photoshop <br>
+✌ Laravel <br>
+✌ React Js <br>
+✌ Photoshop Basic<br>
 
 
 
